@@ -1,0 +1,12 @@
+{
+    "scriptFile": "__init__.py",
+    "bindings": [
+      {
+        "name": "input",
+        "type": "sqlTrigger",
+        "direction": "in",
+        "connectionStringSetting": "AzureWebJobsStorage",
+        "tableName": "sensor_data"
+      }
+    ]
+  }
