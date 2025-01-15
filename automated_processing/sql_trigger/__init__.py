@@ -5,7 +5,7 @@ import logging
 def main(input: str) -> None:
     try:
         conn = pymssql.connect(
-          server='dist_systems.database.windows.net',
+          server='dist_systems-simulated_data-data_statistics-automated_processing.database.windows.net',
           user='caoilainnl',
           password='C@mpl3xS3rv!ce2025',
           database='dist_systems'
