@@ -1,4 +1,4 @@
-- **Azure SQL Server**: `dist_systems.database.windows.net`
+- **Azure SQL Server**: `dist_systems-simulated_data-data_statistics-automated_processing.database.windows.net`
 - **Azure SQL Database**: `dist_systems`
 
 ```
