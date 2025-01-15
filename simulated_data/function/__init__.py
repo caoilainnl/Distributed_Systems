@@ -3,7 +3,7 @@ import pymssql
 import azure.functions as func
 
 DB_CONFIG = {
-    'server': 'dist_systems.database.windows.net',
+    'server': 'dist_systems-simulated_data-data_statistics-automated_processing.database.windows.net',
     'user': 'caoilainnl',
     'password': 'C@mpl3xS3rv!ce2025',
     'database': 'dist_systems'
